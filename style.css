@@ -19,6 +19,7 @@ body{
     margin-top: auto;
     height: 50px;
     color: white;
+    
 
 
 }
@@ -52,8 +53,8 @@ body{
 
 }
 #imgder{
-    margin-top: 5%;
-    margin-left: 2%;
+    margin-top: 20px;
+    margin-left: 5%;
     width: 90%;
     height: auto;
 
@@ -66,13 +67,14 @@ margin-right: 5%;
 
 #texto2{
 float: left;
+margin-top: 10px;
 margin-left: 10%;
 color: #0A3871;
 width: 80%;
 height: 60%;
 border: none;
 outline: none;
-font-size: 15px;
+font-size: 20px;
 }
 
 .left-button{
@@ -111,6 +113,7 @@ font-size: 15px;
 #copiar{
     margin-left: 33%;
     margin-top: 90%;
+    margin-bottom: auto;
     padding: 24px;
     width: 40%;
     height: 10%;
